@@ -1,0 +1,81 @@
+{
+  "profesores": [
+    {
+      "nombre": "Harold",
+      "edad": 22,
+      "materias": [
+        {
+          "materia": "Programacion"
+        },
+        {
+          "materia": "Fisica"
+        },
+        {
+          "materia": "Quimica"
+        }
+      ]
+    },
+    {
+      "id": "58be",
+      "nombre": "Efrain",
+      "edad": 22,
+      "materias": [
+        {
+          "materia": "Programacion"
+        },
+        {
+          "materia": "Fisica Avanzada"
+        }
+      ]
+    }
+  ],
+  "estudiante": [
+    {
+      "nombre": "Josue",
+      "edad": 22,
+      "materias": [
+        {
+          "materia": "Programacion"
+        },
+        {
+          "materia": "Fisica"
+        },
+        {
+          "materia": "Quimica"
+        }
+      ]
+    },
+    {
+      "nombre": "Samuel",
+      "edad": 22,
+      "materias": [
+        {
+          "materia": "Programacion"
+        },
+        {
+          "materia": "Fisica"
+        },
+        {
+          "materia": "Quimica"
+        }
+      ]
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs desde Cero",
+      "duracion": 7,
+      "profesor": "Intermedio"
+    },
+    {
+      "nombre": "ReactJS desde Cero",
+      "duracion": 7,
+      "profesor": "Intermedio"
+    },
+    {
+      "nombre": "SQL desde Cero",
+      "duracion": 7,
+      "profesor": "Intermedio"
+    }
+  ]
+}
